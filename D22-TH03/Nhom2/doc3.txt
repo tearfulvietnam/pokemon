@@ -1,0 +1,16 @@
+Lab2
+├── D22-TH03
+│   ├── file1.txt
+│   ├── Nhom1
+│   │   └── doc1.txt
+│   ├── Nhom2
+│   │   └── doc3.txt
+│   └── Nhom3
+│       └── doc4.txt
+└── D22-TH04
+    ├── DeTai1
+    │   └── file1.txt
+    ├── DeTai2
+    └── doc2.txt
+
+8 directories, 7 files
